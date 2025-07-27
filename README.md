@@ -1,8 +1,8 @@
-#VTU SGPA/CGPA CALCULATOR
+# VTU SGPA/CGPA CALCULATOR
 
 This is exclusively for students of CSE [IOT, CYBERSECURITY, BLOCKCHAIN TECHNOLOGY] BRANCH ONLY!
 
-#🎯 Features
+# 🎯 Features
 
 ✅ Calculate SGPA for any semester (Sem 1 to 8)
 
@@ -13,11 +13,12 @@ This is exclusively for students of CSE [IOT, CYBERSECURITY, BLOCKCHAIN TECHNOLO
 ✅ Input marks out of 100, and the calculator auto-assigns grade points
 
 
-#🧠 Concepts Used
+# 🧠 Concepts Used
 
-👨‍💻 Core Java (OOP) Concepts
+### 👨‍💻 Core Java (OOP) Concepts
+
 Classes & Objects: Organized entities like Subject, Student, and Sem_Subjects.
 
 Encapsulation: Used private fields and public methods (getters/setters) to protect data.
 
-Separation of Concerns: Each class handles a specific task (e.g., data model, subject list, GPA calculation).
+Separation of Concerns: Each class handles a specific task (e.g., subject list, GPA calculation).
