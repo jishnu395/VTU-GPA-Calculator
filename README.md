@@ -1,7 +1,9 @@
 #VTU SGPA/CGPA CALCULATOR
-For CSE [IOT, CYBERSECURITY, BLOCKCHAIN TECHNOLOGY] BRANCH ONLY
 
-🎯 Features
+This is exclusively for students of CSE [IOT, CYBERSECURITY, BLOCKCHAIN TECHNOLOGY] BRANCH ONLY!
+
+#🎯 Features
+
 ✅ Calculate SGPA for any semester (Sem 1 to 8)
 
 ✅ Calculate CGPA using SGPA and credit data across multiple semesters
@@ -11,8 +13,8 @@ For CSE [IOT, CYBERSECURITY, BLOCKCHAIN TECHNOLOGY] BRANCH ONLY
 ✅ Input marks out of 100, and the calculator auto-assigns grade points
 
 
+#🧠 Concepts Used
 
-🧠 Concepts Used
 👨‍💻 Core Java (OOP) Concepts
 Classes & Objects: Organized entities like Subject, Student, and Sem_Subjects.
 
